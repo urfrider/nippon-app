@@ -1,0 +1,1417 @@
+{
+  "features": [
+    {
+      "properties": {
+        "title": "Jurong East"
+      },
+      "geometry": {
+        "coordinates": [103.742308, 1.333207],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bukit Batok"
+      },
+      "geometry": {
+        "coordinates": [103.749596, 1.349069],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bukit Gombak"
+      },
+      "geometry": {
+        "coordinates": [103.751863, 1.359043],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Choa Chu Kang"
+      },
+      "geometry": {
+        "coordinates": [103.744316, 1.385417],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Yew Tee"
+      },
+      "geometry": {
+        "coordinates": [103.747523, 1.397383],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kranji"
+      },
+      "geometry": {
+        "coordinates": [103.762049, 1.425302],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Marsiling"
+      },
+      "geometry": {
+        "coordinates": [103.77415, 1.432579],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Woodlands"
+      },
+      "geometry": {
+        "coordinates": [103.786406, 1.436984],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Admiralty"
+      },
+      "geometry": {
+        "coordinates": [103.786406, 1.436984],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Sembawang"
+      },
+      "geometry": {
+        "coordinates": [103.82006, 1.449133],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Yishun"
+      },
+      "geometry": {
+        "coordinates": [103.835044, 1.429666],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Khatib"
+      },
+      "geometry": {
+        "coordinates": [103.832995, 1.417423],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Yio Chu Kang"
+      },
+      "geometry": {
+        "coordinates": [103.844923, 1.381765],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Ang Mo Kio"
+      },
+      "geometry": {
+        "coordinates": [103.849588, 1.370025],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bishan"
+      },
+      "geometry": {
+        "coordinates": [103.848206, 1.35092],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Braddell"
+      },
+      "geometry": {
+        "coordinates": [103.847098, 1.34055],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Toa Payoh"
+      },
+      "geometry": {
+        "coordinates": [103.847436, 1.332405],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Novena"
+      },
+      "geometry": {
+        "coordinates": [103.843405, 1.320089],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Newton"
+      },
+      "geometry": {
+        "coordinates": [103.838021, 1.31383],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Orchard"
+      },
+      "geometry": {
+        "coordinates": [103.831792, 1.304041],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Somerset"
+      },
+      "geometry": {
+        "coordinates": [103.838428, 1.300508],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Dhoby Ghaut"
+      },
+      "geometry": {
+        "coordinates": [103.845799, 1.299169],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "City Hall"
+      },
+      "geometry": {
+        "coordinates": [103.852089, 1.293119],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Raffles Place"
+      },
+      "geometry": {
+        "coordinates": [103.85155, 1.284001],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Marina Bay"
+      },
+      "geometry": {
+        "coordinates": [103.854598, 1.276481],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Marina South Pier"
+      },
+      "geometry": {
+        "coordinates": [103.863581, 1.271422],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tuas Link"
+      },
+      "geometry": {
+        "coordinates": [103.636866, 1.340371],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tuas West Road"
+      },
+      "geometry": {
+        "coordinates": [103.639636, 1.330075],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tuas Crescent"
+      },
+      "geometry": {
+        "coordinates": [103.649075, 1.321091],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Gul Circle"
+      },
+      "geometry": {
+        "coordinates": [103.66083, 1.319809],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Joo Koon"
+      },
+      "geometry": {
+        "coordinates": [103.678318, 1.327826],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Pioneer"
+      },
+      "geometry": {
+        "coordinates": [103.69742, 1.337645],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Boon Lay"
+      },
+      "geometry": {
+        "coordinates": [103.705817, 1.33862],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Lakeside"
+      },
+      "geometry": {
+        "coordinates": [103.720797, 1.344264],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Chinese Garden"
+      },
+      "geometry": {
+        "coordinates": [103.732582, 1.342436],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Clementi"
+      },
+      "geometry": {
+        "coordinates": [103.765341, 1.314925],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Dover"
+      },
+      "geometry": {
+        "coordinates": [103.778596, 1.311414],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Buona Vista"
+      },
+      "geometry": {
+        "coordinates": [103.790046, 1.307337],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Commonwealth"
+      },
+      "geometry": {
+        "coordinates": [103.798326, 1.302439],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Queenstown"
+      },
+      "geometry": {
+        "coordinates": [103.805902, 1.294867],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Redhill"
+      },
+      "geometry": {
+        "coordinates": [103.816787, 1.289674],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tiong Bahru"
+      },
+      "geometry": {
+        "coordinates": [103.826956, 1.286555],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Outram Park"
+      },
+      "geometry": {
+        "coordinates": [103.839459, 1.280319],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tanjong Pagar"
+      },
+      "geometry": {
+        "coordinates": [103.846771, 1.276385],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bugis"
+      },
+      "geometry": {
+        "coordinates": [103.855873, 1.300747],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Lavender"
+      },
+      "geometry": {
+        "coordinates": [103.863155, 1.307577],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kallang"
+      },
+      "geometry": {
+        "coordinates": [103.871372, 1.311532],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Aljunied"
+      },
+      "geometry": {
+        "coordinates": [103.882762, 1.316474],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Paya Lebar"
+      },
+      "geometry": {
+        "coordinates": [103.893133, 1.318214],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Eunos"
+      },
+      "geometry": {
+        "coordinates": [103.902888, 1.319809],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kembangan"
+      },
+      "geometry": {
+        "coordinates": [103.913433, 1.320998],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bedok"
+      },
+      "geometry": {
+        "coordinates": [103.930205, 1.324043],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tanah Merah"
+      },
+      "geometry": {
+        "coordinates": [103.946479, 1.327309],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Simei"
+      },
+      "geometry": {
+        "coordinates": [103.953343, 1.343237],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tampines"
+      },
+      "geometry": {
+        "coordinates": [103.943325, 1.354467],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Pasir Ris"
+      },
+      "geometry": {
+        "coordinates": [103.949343, 1.373234],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Expo"
+      },
+      "geometry": {
+        "coordinates": [103.961459, 1.334479],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Changi Airport"
+      },
+      "geometry": {
+        "coordinates": [103.988487, 1.357622],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "HarbourFront"
+      },
+      "geometry": {
+        "coordinates": [103.820514, 1.265453],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Chinatown"
+      },
+      "geometry": {
+        "coordinates": [103.843626, 1.284566],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Clarke Quay"
+      },
+      "geometry": {
+        "coordinates": [103.847521, 1.288949],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Little India"
+      },
+      "geometry": {
+        "coordinates": [103.849396, 1.306691],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Farrer Park"
+      },
+      "geometry": {
+        "coordinates": [103.854872, 1.312679],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Boon Keng"
+      },
+      "geometry": {
+        "coordinates": [103.861655, 1.320091],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Potong Pasir"
+      },
+      "geometry": {
+        "coordinates": [103.868779, 1.331316],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Woodleigh"
+      },
+      "geometry": {
+        "coordinates": [103.870727, 1.339202],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Serangoon"
+      },
+      "geometry": {
+        "coordinates": [103.873635, 1.349862],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kovan"
+      },
+      "geometry": {
+        "coordinates": [103.885163, 1.360207],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Hougang"
+      },
+      "geometry": {
+        "coordinates": [103.892533, 1.371406],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Buangkok"
+      },
+      "geometry": {
+        "coordinates": [103.893347, 1.382991],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Sengkang"
+      },
+      "geometry": {
+        "coordinates": [103.895475, 1.391682],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Punggol"
+      },
+      "geometry": {
+        "coordinates": [103.902367, 1.405191],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bras Basah"
+      },
+      "geometry": {
+        "coordinates": [103.850715, 1.296978],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Esplanade"
+      },
+      "geometry": {
+        "coordinates": [103.855396, 1.293995],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Promenade"
+      },
+      "geometry": {
+        "coordinates": [103.860156, 1.294063],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Nicoll Highway"
+      },
+      "geometry": {
+        "coordinates": [103.863449, 1.300292],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Stadium"
+      },
+      "geometry": {
+        "coordinates": [103.875417, 1.302847],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Mountbatten"
+      },
+      "geometry": {
+        "coordinates": [103.883175, 1.306106],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Dakota"
+      },
+      "geometry": {
+        "coordinates": [103.888825, 1.308474],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "MacPherson"
+      },
+      "geometry": {
+        "coordinates": [103.889901, 1.326769],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tai Seng"
+      },
+      "geometry": {
+        "coordinates": [103.887706, 1.33594],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bartley"
+      },
+      "geometry": {
+        "coordinates": [103.87966, 1.342923],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Lorong Chuan"
+      },
+      "geometry": {
+        "coordinates": [103.864957, 1.35153],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Marymount"
+      },
+      "geometry": {
+        "coordinates": [103.839116, 1.349089],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Caldecott"
+      },
+      "geometry": {
+        "coordinates": [103.839627, 1.337649],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Botanic Gardens"
+      },
+      "geometry": {
+        "coordinates": [103.814905, 1.322387],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Farrer Road"
+      },
+      "geometry": {
+        "coordinates": [103.807711, 1.317606],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Holland Village"
+      },
+      "geometry": {
+        "coordinates": [103.796119, 1.311189],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "one-north"
+      },
+      "geometry": {
+        "coordinates": [103.787584, 1.299854],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kent Ridge"
+      },
+      "geometry": {
+        "coordinates": [103.784441, 1.293629],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Haw Par Villa"
+      },
+      "geometry": {
+        "coordinates": [103.781991, 1.283149],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Pasir Panjang"
+      },
+      "geometry": {
+        "coordinates": [103.791893, 1.276111],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Labrador Park"
+      },
+      "geometry": {
+        "coordinates": [103.802557, 1.27218],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Telok Blangah"
+      },
+      "geometry": {
+        "coordinates": [103.809878, 1.270769],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bayfront"
+      },
+      "geometry": {
+        "coordinates": [103.858998, 1.281371],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bukit Panjang"
+      },
+      "geometry": {
+        "coordinates": [103.762452, 1.37834],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Cashew"
+      },
+      "geometry": {
+        "coordinates": [103.764569, 1.369997],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Hillview"
+      },
+      "geometry": {
+        "coordinates": [103.767371, 1.363185],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Beauty World"
+      },
+      "geometry": {
+        "coordinates": [103.775682, 1.341607],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "King Albert Park"
+      },
+      "geometry": {
+        "coordinates": [103.783203, 1.335721],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Sixth Avenue"
+      },
+      "geometry": {
+        "coordinates": [103.79718, 1.331221],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tan Kah Kee"
+      },
+      "geometry": {
+        "coordinates": [103.807959, 1.325826],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Stevens"
+      },
+      "geometry": {
+        "coordinates": [103.825964, 1.320012],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Rochor"
+      },
+      "geometry": {
+        "coordinates": [103.852581, 1.303601],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Downtown"
+      },
+      "geometry": {
+        "coordinates": [103.852802, 1.27949],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Telok Ayer"
+      },
+      "geometry": {
+        "coordinates": [103.848584, 1.282285],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Fort Canning"
+      },
+      "geometry": {
+        "coordinates": [103.844621, 1.291631],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bencoolen"
+      },
+      "geometry": {
+        "coordinates": [103.849984, 1.298477],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Jalan Besar"
+      },
+      "geometry": {
+        "coordinates": [103.855443, 1.305551],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bendemeer"
+      },
+      "geometry": {
+        "coordinates": [103.863098, 1.313674],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Geylang Bahru"
+      },
+      "geometry": {
+        "coordinates": [103.871457, 1.321479],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Mattar"
+      },
+      "geometry": {
+        "coordinates": [103.883304, 1.326878],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Ubi"
+      },
+      "geometry": {
+        "coordinates": [103.898911, 1.330008],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kaki Bukit"
+      },
+      "geometry": {
+        "coordinates": [103.909057, 1.335076],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bedok North"
+      },
+      "geometry": {
+        "coordinates": [103.918054, 1.335268],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bedok Reservoir"
+      },
+      "geometry": {
+        "coordinates": [103.93307, 1.336595],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tampines West"
+      },
+      "geometry": {
+        "coordinates": [103.938244, 1.345583],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tampines East"
+      },
+      "geometry": {
+        "coordinates": [103.955471, 1.35631],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Upper Changi"
+      },
+      "geometry": {
+        "coordinates": [103.961505, 1.342218],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "South View"
+      },
+      "geometry": {
+        "coordinates": [103.745286, 1.380299],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Keat Hong"
+      },
+      "geometry": {
+        "coordinates": [103.749058, 1.378604],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Teck Whye"
+      },
+      "geometry": {
+        "coordinates": [103.753665, 1.376738],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Phoenix"
+      },
+      "geometry": {
+        "coordinates": [103.758021, 1.378798],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Senja"
+      },
+      "geometry": {
+        "coordinates": [103.762312, 1.382852],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Jelapang"
+      },
+      "geometry": {
+        "coordinates": [103.764547, 1.386703],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Segar"
+      },
+      "geometry": {
+        "coordinates": [103.769599, 1.387713],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Fajar"
+      },
+      "geometry": {
+        "coordinates": [103.770862, 1.384502],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bangkit"
+      },
+      "geometry": {
+        "coordinates": [103.772576, 1.380281],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Pending"
+      },
+      "geometry": {
+        "coordinates": [103.771277, 1.376223],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Petir"
+      },
+      "geometry": {
+        "coordinates": [103.76655, 1.377828],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Compassvale"
+      },
+      "geometry": {
+        "coordinates": [103.900443, 1.394615],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Rumbia"
+      },
+      "geometry": {
+        "coordinates": [103.905947, 1.391553],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Bakau"
+      },
+      "geometry": {
+        "coordinates": [103.905412, 1.38804],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kangkar"
+      },
+      "geometry": {
+        "coordinates": [103.90216, 1.383957],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Ranggung"
+      },
+      "geometry": {
+        "coordinates": [103.897386, 1.384116],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Cheng Lim"
+      },
+      "geometry": {
+        "coordinates": [103.89379, 1.396332],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Farmway"
+      },
+      "geometry": {
+        "coordinates": [103.889168, 1.397178],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kupang"
+      },
+      "geometry": {
+        "coordinates": [103.881283, 1.398271],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Thanggam"
+      },
+      "geometry": {
+        "coordinates": [103.87561, 1.397378],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Fernvale"
+      },
+      "geometry": {
+        "coordinates": [103.876256, 1.392033],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Layar"
+      },
+      "geometry": {
+        "coordinates": [103.880022, 1.392141],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Tongkang"
+      },
+      "geometry": {
+        "coordinates": [103.885829, 1.389519],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Renjong"
+      },
+      "geometry": {
+        "coordinates": [103.890541, 1.386827],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Cove"
+      },
+      "geometry": {
+        "coordinates": [103.905792, 1.399534],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Meridian"
+      },
+      "geometry": {
+        "coordinates": [103.908884, 1.397002],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Coral Edge"
+      },
+      "geometry": {
+        "coordinates": [103.912633, 1.39392],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Riviera"
+      },
+      "geometry": {
+        "coordinates": [103.916056, 1.39454],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Kadaloor"
+      },
+      "geometry": {
+        "coordinates": [103.916536, 1.399633],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Oasis"
+      },
+      "geometry": {
+        "coordinates": [103.912736, 1.402304],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Damai"
+      },
+      "geometry": {
+        "coordinates": [103.908606, 1.405293],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Sam Kee"
+      },
+      "geometry": {
+        "coordinates": [103.90492, 1.409808],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Teck Lee"
+      },
+      "geometry": {
+        "coordinates": [103.906565, 1.412783],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Punggol Point"
+      },
+      "geometry": {
+        "coordinates": [103.90668, 1.416932],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Samudera"
+      },
+      "geometry": {
+        "coordinates": [103.902185, 1.415955],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Nibong"
+      },
+      "geometry": {
+        "coordinates": [103.900321, 1.411865],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Sumang"
+      },
+      "geometry": {
+        "coordinates": [103.898605, 1.408501],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Soo Teck"
+      },
+      "geometry": {
+        "coordinates": [103.897287, 1.405436],
+        "type": "Point"
+      }
+    }
+  ]
+}

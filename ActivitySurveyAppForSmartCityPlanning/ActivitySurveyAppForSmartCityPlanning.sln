@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivitySurveyAppForSmartCityPlanning", "ActivitySurveyAppForSmartCityPlanning\ActivitySurveyAppForSmartCityPlanning.csproj", "{9098A15D-572D-4660-A31F-EA16328EC4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSurveyTests", "SmartSurveyTests\SmartSurveyTests.csproj", "{DDA4B4A5-CC35-4068-A7C0-021F6FAB137E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9098A15D-572D-4660-A31F-EA16328EC4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9098A15D-572D-4660-A31F-EA16328EC4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9098A15D-572D-4660-A31F-EA16328EC4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9098A15D-572D-4660-A31F-EA16328EC4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA4B4A5-CC35-4068-A7C0-021F6FAB137E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA4B4A5-CC35-4068-A7C0-021F6FAB137E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA4B4A5-CC35-4068-A7C0-021F6FAB137E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA4B4A5-CC35-4068-A7C0-021F6FAB137E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF1E83B-AAA8-4B38-A7E4-5D55B46790C2}
+	EndGlobalSection
+EndGlobal
